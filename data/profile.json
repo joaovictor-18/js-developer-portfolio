@@ -7,7 +7,7 @@
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
+        "name": "JavaScript",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
@@ -33,7 +33,7 @@
     ],
     "softSkills": [
       "Empatia",
-      "Liderança",
+      "Comunicação",
       "Trabalho em equipe",
       "Flexibilidade",
       "Organização"
